@@ -16,12 +16,6 @@ on:
 
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      packages: write
-
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
