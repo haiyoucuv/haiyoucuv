@@ -1,9 +1,5 @@
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haiyoucuv&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-<!-- </a>
-<a> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiyoucuv&langs_count=6&hide_title=true&hide_border=true&layout=compact&hide=makefile" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=haiyoucuv&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiyoucuv&langs_count=6&hide_title=true&hide_border=true&layout=compact&hide=makefile" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haiyoucuv/haiyoucuv/output/github-contribution-grid-snake-dark.svg">
