@@ -1,4 +1,4 @@
-<a style="display: flex; justify-content: space-between;">
+<a style="display: flex;">
   <img alt="readme-stats" style="width: 60%; display: block;" src="https://github-readme-stats.vercel.app/api?username=haiyoucuv&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true">
   <img alt="top-langs" style="width: 40%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiyoucuv&langs_count=6&hide_title=true&hide_border=true&layout=compact&hide=makefile">
 </a>
