@@ -1,7 +1,7 @@
-<div style="display: flex; justify-content: space-between;">
+<a style="display: flex; justify-content: space-between;">
   <img alt="readme-stats" style="width: 60%; display: block;" src="https://github-readme-stats.vercel.app/api?username=haiyoucuv&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true">
   <img alt="top-langs" style="width: 40%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiyoucuv&langs_count=6&hide_title=true&hide_border=true&layout=compact&hide=makefile">
-</div>
+</a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haiyoucuv/haiyoucuv/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haiyoucuv/haiyoucuv/output/github-contribution-grid-snake.svg">
